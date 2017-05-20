@@ -10,7 +10,7 @@ namespace ZacksPlugin
         {
             get
             {
-                return "Zack's Plugin";
+                return "Zack's Plugin 2";
             }
         }
 

@@ -34,7 +34,7 @@
       <HintPath>..\Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="PluginAPI">
-      <HintPath>..\..\..\AquaConsole\PluginAPI.dll</HintPath>
+      <HintPath>..\references\PluginAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -54,9 +54,6 @@
     <Compile Include="Commands\update.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("A plugin for AquaConsole")]
 [assembly: AssemblyConfiguration("Dev")]
 [assembly: AssemblyCompany("Isaac Howie")]
-[assembly: AssemblyProduct("Zack's Plugin")]
-[assembly: AssemblyCopyright("Copyright ©  2016 Isaac Howie with special thanks to DotNetZip")]
+[assembly: AssemblyProduct("Zack's Plugin 2")]
+[assembly: AssemblyCopyright("Copyright © 2016-17 Isaac Howie")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -24,5 +24,5 @@ using System.Runtime.InteropServices;
 
 // Using semantic versioning now
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.1.2")]
-[assembly: AssemblyFileVersion("2.1.2")]
+[assembly: AssemblyVersion("2.2.0")]
+[assembly: AssemblyFileVersion("2.2.0")]
