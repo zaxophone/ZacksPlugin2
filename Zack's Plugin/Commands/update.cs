@@ -29,12 +29,14 @@ class update : ICommand
     public void CommandMethod(string[] p)
     {
         string cheese = (string.Join("", p));
+
         string release = cheese;
         string remoteUri = ("https://github.com/greyblockgames/AquaConsole/releases/download/" + release + "/AquaConsole.zip");
-        string fileName = Assembly.GetExecutingAssembly().Location;
+        string fileName = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+        string parent = Directory.GetParent(fileName).FullName;
         string zipname = (fileName + "\\AquaConsole.zip");
-        string releaseFolder = (fileName + "\\" + release);
-        string pluginsFolder = (fileName + "\\plugins");
+        string releaseFolder = (parent + "\\" + release);
+        string pluginsFolder = fileName;
         string newPluginsFolder = (releaseFolder + "\\plugins");
 
         if (release == ("help"))

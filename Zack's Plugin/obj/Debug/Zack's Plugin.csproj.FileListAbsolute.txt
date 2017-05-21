@@ -1,0 +1,7 @@
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\bin\Debug\ExamplePlugin.dll
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\bin\Debug\ExamplePlugin.pdb
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\bin\Debug\Ionic.Zip.dll
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\bin\Debug\PluginAPI.dll
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\obj\Debug\Zack's Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\obj\Debug\ExamplePlugin.dll
+C:\Users\Howie\Downloads\ZacksPlugin-master\ZacksPlugin-master\Zack's Plugin\obj\Debug\ExamplePlugin.pdb
